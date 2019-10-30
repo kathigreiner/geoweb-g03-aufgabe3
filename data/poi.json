@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "name": "Lainzer Tiergarten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.229209899902344,
+                    48.177991372208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schönbrunn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31023406982422,
+                    48.18165418628939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prater"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.428680419921875,
+                    48.195616264189105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Augarten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.378211975097656,
+                    48.22444392352424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Donauinsel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.433143615722656,
+                    48.211862417203214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zentralfriedhof"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4410400390625,
+                    48.148679437804546
+                ]
+            }
+        }
+    ]
+}
